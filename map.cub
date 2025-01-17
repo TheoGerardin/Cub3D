@@ -1,0 +1,16 @@
+NO ./textures/wall_east.xpm
+SO ./textures/bluestone.xpm
+WE ./textures/purplestone.xpm
+EA ./textures/wall_4.xpm
+
+F 0,0,0
+C 0,0,0
+
+111111
+1000001
+1001 1
+100S101
+1111111
+
+
+
